@@ -1,0 +1,14 @@
+c:\users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\bin\Debug\ModuloPrueba2.exe.config
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\bin\Debug\ModuloPrueba2.exe
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\bin\Debug\ModuloPrueba2.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\bin\Debug\MySql.Data.dll
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\bin\Debug\MySql.Data.xml
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.csprojResolveAssemblyReference.cache
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.Form1.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.Properties.Resources.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.csproj.GenerateResource.Cache
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.exe
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.pdb
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.Poliza.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.WFCuentas.resources
+C:\Users\davis\documents\visual studio 2015\Projects\ModuloPrueba2\ModuloPrueba2\obj\Debug\ModuloPrueba2.Transacciones.resources
